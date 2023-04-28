@@ -1,3 +1,5 @@
+Landing page template no. 1 for Navi
+
 CREDITS:
 
 Bootstrap
